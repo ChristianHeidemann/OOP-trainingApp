@@ -1,0 +1,5 @@
+#!c:\Users\local\Documents\praxisprojekt\trainingplanApp\venv\Scripts\python.exe
+
+from argostranslate import argospm
+
+argospm.main()
